@@ -25,6 +25,9 @@ Unlike other lists that just dump links, this one answers the question developer
 - [awesome-minimax-h3-prompts](https://github.com/Anil-matcha/awesome-minimax-h3-prompts) — Prompt gallery with runnable MiniMax H3 video examples.
 - [Wan-3.0-API](https://github.com/Anil-matcha/Wan-3.0-API) — Python SDK and MCP server for Wan 3.0-compatible video generation.
 - [Wan-3.0-Prime-API](https://github.com/Anil-matcha/Wan-3.0-Prime-API) — Python SDK and MCP server for the higher-fidelity Wan 3.0 Prime tier.
+- [Seedance-2-Spicy-API](https://github.com/Anil-matcha/Seedance-2-Spicy-API) — Python SDK and MCP server for the relaxed-moderation Seedance 2 Spicy / 2 Mini Spicy tier.
+- [Seedance-2.5-Spicy-API](https://github.com/Anil-matcha/Seedance-2.5-Spicy-API) — Python SDK and MCP server for the relaxed-moderation Seedance 2.5 Spicy tier.
+- [Wan-3.0-Spicy-API](https://github.com/Anil-matcha/Wan-3.0-Spicy-API) — Python SDK and MCP server for the relaxed-moderation Wan 3.0 Spicy tier.
 - [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) — curated hub of open generative-media tools and pipelines
 - [Text-To-Video-AI](https://github.com/SamurAIGPT/Text-To-Video-AI) — generate a finished video from a text prompt end-to-end
 - [Open-AI-Micro-Drama-Generator](https://github.com/Anil-matcha/Open-AI-Micro-Drama-Generator) — multi-scene AI micro-drama pipeline
